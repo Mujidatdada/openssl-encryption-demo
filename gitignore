@@ -1,0 +1,8 @@
+# Symmetric keys & outputs
+secret.key
+encrypted.bin
+decrypted.txt
+
+# Asymmetric keys & outputs
+asymmetric/private.pem
+asymmetric/encrypted_message.bin
